@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shreyanka Y H 👋</h1>
 
 <p align="center">
-  <b>Data Science Intern · Full Stack Learner · Problem Solver</b><br>
+  <b> Full Stack Intern ·  Data Science Learner · Problem Solver</b><br>
   Turning real-world problems into tech solutions, one project at a time.
 </p>
 
