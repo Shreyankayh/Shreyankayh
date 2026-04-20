@@ -83,15 +83,11 @@
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyankayh&theme=tokyonight&no-frame=true&margin-w=6&column=6"/>
+  <img src="https://github-trophies.vercel.app/?username=Shreyankayh&theme=tokyonight&no-frame=true&margin-w=4"/>
 </p>
 
----
 
-<p align="center">
-  <i>"Turning data into decisions, one dashboard at a time."</i>
-</p>
+
